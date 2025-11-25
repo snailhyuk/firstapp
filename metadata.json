@@ -1,0 +1,5 @@
+{
+  "name": "로즈마리를 부탁해 (Save My Rosemary)",
+  "description": "AI-powered diagnosis and care guide for your Rosemary plants using Gemini API.",
+  "requestFramePermissions": []
+}
